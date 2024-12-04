@@ -4,6 +4,7 @@ public class Application {
      * No changes you make here affect the test case results. You must still run & pass the test cases.
      * All implementation code should be written in the Lab class.
      *
+     * 
      * The Lab.copy method should return the same value that was passed to it. This value will be printed here.
      */
     public static void main(String[] args) {
